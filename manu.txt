@@ -1,1 +1,2 @@
 Welcome to git basics
+Im preparing for git basics
